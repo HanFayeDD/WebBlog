@@ -4,7 +4,7 @@ published: 2025-01-02
 description: "kafka学习"
 tags: ["kafka"]
 category: Tech
-draft: true
+draft: false
 ---
 # 一些概念
 - Kafka作为一个集群运行在一个或多个数据中心服务器上
